@@ -3,28 +3,25 @@ body {
   margin-top: 100px;
   margin-left: 400px;
   margin-right: 400px;
+  font-family: 'Open Sans', sans-serif;
+
 }
 
-/* Add a black background color to the top navigation */
 .topnav {
   overflow: hidden;
 }
 
-/* Style the links inside the navigation bar */
 .topnav a {
   float: right;
   color: black;
   text-align: center;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 10px;
   margin-bottom: 100px;
   padding: 10px;
 }
 
-.title a {
-padding: 10px;
-
+.title {
+line-height: 30px;
 
 }
-
-font-family: 'Open Sans', sans-serif;
