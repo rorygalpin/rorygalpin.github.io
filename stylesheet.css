@@ -7,21 +7,25 @@ body {
 
 }
 
-.topnav {
-  overflow: hidden;
-}
+
 
 .topnav a {
   float: right;
   color: black;
   text-align: center;
-  text-decoration: none;
   font-size: 10px;
-  margin-bottom: 100px;
+  margin-bottom: 10px;
   padding: 10px;
 }
 
 .title {
 line-height: 30px;
+margin-bottom: 30px;
 
+}
+
+img.logo {
+  height: 7%;
+  width: 7%;
+  padding-bottom: 20px;
 }
