@@ -1,8 +1,8 @@
 body {
   background-color: white;
-  margin-top: 100px;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-top: 7%;
+  margin-left: 28%;
+  margin-right: 28%;
   font-family: 'Open Sans', sans-serif;
 
 }
@@ -27,7 +27,7 @@ margin-bottom: 30px;
 img.logo {
   height: 60px;
   width: 60px;
-  padding-bottom: 20px;
+  padding-bottom: 3%;
 }
 .about{
   margin-left: 10%;
