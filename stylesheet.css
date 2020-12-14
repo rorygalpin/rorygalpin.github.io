@@ -30,10 +30,21 @@ img.logo {
   margin-left: 10%;
   margin-top: 5%;
   font-size: 15px;
+  padding:1%;
+  line-height: normal;
 }
 
 .abt-2{
     font-size: 13px;
     color: gray;
     padding-top: 1%;
+}
+
+img.fix {
+  height: 60px;
+  width: 60px;
+  padding-bottom: 3%;
+  position:fixed;
+  bottom:0px;
+  left:50%;
 }
